@@ -1,24 +1,6 @@
 # Quant-stuff
 A journey into curated quant and dev content
 
-Languages
-
-    Python
-    R
-    Matlab
-    Julia
-    Java
-    JavaScript
-    Haskell
-    Scala
-    Ruby
-    Elixir/Erlang
-    Golang
-    CPP
-    CSharp
-    Rust
-    Frameworks
-    Reproducing Works, Training & Books
 
 Python
 Numerical Libraries & Data Structures
