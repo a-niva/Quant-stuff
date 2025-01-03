@@ -1,10 +1,6 @@
 # Quant-stuff
 A journey into curated quant and dev content
 
-Awesome Quant
-
-A curated list of insanely awesome libraries, packages and resources for Quants (Quantitative Finance).
-
 Languages
 
     Python
