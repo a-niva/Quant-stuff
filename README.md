@@ -49,7 +49,7 @@ A journey into curated quant and dev content
 - [**fypy**](https://github.com/furyofraven/fypy) - Vanilla and exotic option pricing library to support quantitative R&D. Focus on pricing interesting/useful models and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.
 
 
-Indicators
+## Indicators 🚧
 
     pandas_talib - A Python Pandas implementation of technical analysis indicators.
     finta - Common financial technical analysis indicators implemented in Pandas.
@@ -195,7 +195,7 @@ Indicators
 - [**pandas_market_calendars**](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
 
 
-Data Sources
+## Data Sources 🚧
 
     yfinance - Yahoo! Finance market data downloader (+faster Pandas Datareader)
     findatapy - Python library to download market data via Bloomberg, Quandl, Yahoo etc.
@@ -288,7 +288,7 @@ Data Sources
 - [**tframe**](https://cran.r-project.org/web/packages/tframe/index.html) - A kernel of functions for programming time series methods in a way that is relatively independent of the representation of time.
 
 
-Data Sources
+## Data Sources 🚧
 
     IBrokers - Provides native R access to Interactive Brokers Trader Workstation API.
     Rblpapi - An R Interface to 'Bloomberg' is provided via the 'Blp API'.
@@ -303,7 +303,7 @@ Data Sources
     simfinapi - Makes 'SimFin' data (https://simfin.com/) easily accessible in R.
     tidyfinance - Tidy Finance helper functions to download financial data and process the raw data into a structured Format (tidy data), including date conversion, scaling factor values, and filtering by the specified date.
 
-Financial Instruments and Pricing
+Financial Instruments and Pricing 🚧
 
     RQuantLib - RQuantLib connects GNU R with QuantLib.
     quantmod - Quantitative Financial Modelling Framework.
@@ -380,13 +380,12 @@ Financial Instruments and Pricing
 - [**bizdays**](https://cran.r-project.org/web/packages/bizdays/index.html) - Business days calculations and utilities.
 
 
-Matlab
-FrameWorks
+## FrameWorks 🚧
 
     QUANTAXIS - Integrated Quantitative Toolbox with Matlab.
     PROJ_Option_Pricing_Matlab - Quant Option Pricing - Exotic/Vanilla: Barrier, Asian, European, American, Parisian, Lookback, Cliquet, Variance Swap, Swing, Forward Starting, Step, Fader
 
-Julia
+## Julia 🚧
 
     Lucky.jl - Modular, asynchronous trading engine in pure Julia.
     QuantLib.jl - Quantlib implementation in pure Julia.
@@ -404,7 +403,7 @@ Julia
     DataFrames.jl - In-memory tabular data in Julia
     TSFrames.jl - Handle timeseries data on top of the powerful and mature DataFrames.jl
 
-Java
+## Java 🚧
 
     Strata - Modern open-source analytics and market risk library designed and written in Java.
     JQuantLib - JQuantLib is a free, open-source, comprehensive framework for quantitative finance, written in 100% Java.
@@ -413,7 +412,7 @@ Java
     DRIP - Fixed Income, Asset Allocation, Transaction Cost Analysis, XVA Metrics Libraries.
     ta4j - A Java library for technical analysis.
 
-JavaScript
+## JavaScript 🚧
 
     finance.js - A JavaScript library for common financial calculations.
     portfolio-allocation - PortfolioAllocation is a JavaScript library designed to help constructing financial portfolios made of several assets: bonds, commodities, cryptocurrencies, currencies, exchange traded funds (ETFs), mutual funds, stocks...
@@ -468,13 +467,13 @@ JavaScript
 - [**XAD**](https://github.com/auto-differentiation/xad) - Automatic Differentiation (AAD) Library for Python and C++.
 
 
-CSharp
+## CSharp 🚧
 
     QuantConnect - Lean Engine is an open-source fully managed C# algorithmic trading engine built for desktop and cloud usage.
     StockSharp - Algorithmic trading and quantitative trading open source platform to develop trading robots (stock markets, forex, crypto, bitcoins, and options).
     TDAmeritrade.DotNetCore - Free, open-source .NET Client for the TD Ameritrade Trading Platform. Helps developers integrate TD Ameritrade API into custom trading solutions.
 
-Reproducing Works, Training & Books
+## Reproducing Works, Training & Books 🚧
 
     Auto-Differentiation Website - Background and resources on Automatic Differentiation (AD) / Adjoint Algorithmic Differentitation (AAD).
     Derman Papers - Notebooks that replicate original quantitative finance papers from Emanuel Derman.
