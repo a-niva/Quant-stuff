@@ -303,7 +303,7 @@ A journey into curated quant and dev content
     simfinapi - Makes 'SimFin' data (https://simfin.com/) easily accessible in R.
     tidyfinance - Tidy Finance helper functions to download financial data and process the raw data into a structured Format (tidy data), including date conversion, scaling factor values, and filtering by the specified date.
 
-Financial Instruments and Pricing 🚧
+## Financial Instruments and Pricing 🚧
 
     RQuantLib - RQuantLib connects GNU R with QuantLib.
     quantmod - Quantitative Financial Modelling Framework.
