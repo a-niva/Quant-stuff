@@ -17,36 +17,37 @@ A journey into curated quant and dev content
 - [**ArcticDB**](https://docs.arcticdb.io/4.1.0/api/library/) - High performance datastore for time series and tick data.
 
 
-Financial Instruments and Pricing
+## Financial Instruments and Pricing
 
-    OpenBB Terminal - Terminal for investment research for everyone.
-    Fincept Terminal - Advance Data Based A.I Terminal for all Types of Financial Asset Research.
-    PyQL - QuantLib's Python port.
-    pyfin - Basic options pricing in Python. ARCHIVED
-    vollib - vollib is a python library for calculating option prices, implied volatility and greeks.
-    QuantPy - A framework for quantitative finance In python.
-    Finance-Python - Python tools for Finance.
-    ffn - A financial function library for Python.
-    pynance - Lightweight Python library for assembling and analyzing financial data.
-    tia - Toolkit for integration and analysis.
-    hasura/base-python-dash - Hasura quick start to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
-    hasura/base-python-bokeh - Hasura quick start to visualize data with bokeh library.
-    pysabr - SABR model Python implementation.
-    FinancePy - A Python Finance Library that focuses on the pricing and risk-management of Financial Derivatives, including fixed-income, equity, FX and credit derivatives.
-    gs-quant - Python toolkit for quantitative finance
-    willowtree - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
-    financial-engineering - Applications of Monte Carlo methods to financial engineering projects, in Python.
-    optlib - A library for financial options pricing written in Python.
-    tf-quant-finance - High-performance TensorFlow library for quantitative finance.
-    Q-Fin - A Python library for mathematical finance.
-    Quantsbin - Tools for pricing and plotting of vanilla option prices, greeks and various other analysis around them.
-    finoptions - Complete python implementation of R package fOptions with partial implementation of fExoticOptions for pricing various options.
-    pypme - PME (Public Market Equivalent) calculation.
-    AbsBox - A Python based library to model cashflow for structured product like Asset-backed securities (ABS) and Mortgage-backed securities (MBS).
-    Intrinsic-Value-Calculator - A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis.
-    Kelly-Criterion - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
-    rateslib - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency and FX swaps.
-    fypy - Vanilla and exotic option pricing library to support quantitative R&D. Focus on pricing interesting/useful models and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.
+- [**OpenBB Terminal**](https://github.com/OpenBB-finance/OpenBB) - Terminal for investment research for everyone.
+- [**Fincept Terminal**](https://github.com/Fincept-Corporation/FinceptTerminal) - Advanced data-based AI terminal for all types of financial asset research.
+- [**PyQL**](https://github.com/enthought/pyql) - QuantLib's Python port.
+- [**pyfin**](https://github.com/opendoor-labs/pyfin) - Basic options pricing in Python. *ARCHIVED*
+- [**vollib**](https://github.com/vollib/vollib) - A Python library for calculating option prices, implied volatility, and greeks.
+- [**QuantPy**](https://github.com/jsmidt/QuantPy) - A framework for quantitative finance in Python.
+- [**Finance-Python**](https://github.com/danielktaylor/finance-python) - Python tools for finance.
+- [**ffn**](https://github.com/pmorissette/ffn) - A financial function library for Python.
+- [**pynance**](https://github.com/dfurman/pynance) - Lightweight Python library for assembling and analyzing financial data.
+- [**tia**](https://github.com/bpsmith/tia) - Toolkit for integration and analysis.
+- [**hasura/base-python-dash**](https://github.com/hasura/base-python-dash) - Hasura quick start to deploy Dash framework. Written on top of Flask, Plotly.js, and React.js, Dash is ideal for building data visualization apps with highly custom user interfaces in pure Python.
+- [**hasura/base-python-bokeh**](https://github.com/hasura/base-python-bokeh) - Hasura quick start to visualize data with the Bokeh library.
+- [**pysabr**](https://github.com/ynouri/pysabr) - SABR model Python implementation.
+- [**FinancePy**](https://github.com/domokane/FinancePy) - A Python finance library that focuses on the pricing and risk management of financial derivatives, including fixed-income, equity, FX, and credit derivatives.
+- [**gs-quant**](https://github.com/gs-quant/gs-quant) - Python toolkit for quantitative finance.
+- [**willowtree**](https://github.com/aaronbloomfield/willowtree) - Robust and flexible Python implementation of the willow tree lattice for derivatives pricing.
+- [**financial-engineering**](https://github.com/federicomariamassari/financial-engineering) - Applications of Monte Carlo methods to financial engineering projects in Python.
+- [**optlib**](https://github.com/jeffrey-liang/optlib) - A library for financial options pricing written in Python.
+- [**tf-quant-finance**](https://github.com/google/tf-quant-finance) - High-performance TensorFlow library for quantitative finance.
+- [**Q-Fin**](https://github.com/letianzj/Q-Fin) - A Python library for mathematical finance.
+- [**Quantsbin**](https://github.com/quantsbin/OptionsAnalytics) - Tools for pricing and plotting of vanilla option prices, greeks, and various other analyses around them.
+- [**finoptions**](https://github.com/EnigmaCurry/finoptions) - Complete Python implementation of the R package fOptions with partial implementation of fExoticOptions for pricing various options.
+- [**pypme**](https://github.com/jamesmawm/pypme) - PME (Public Market Equivalent) calculation.
+- [**AbsBox**](https://github.com/AbsBox/AbsBox) - A Python-based library to model cash flow for structured products like asset-backed securities (ABS) and mortgage-backed securities (MBS).
+- [**Intrinsic-Value-Calculator**](https://github.com/CameronDevine/Intrinsic-Value-Calculator) - A Python tool for quick calculations of a stock's fair value using Discounted Cash Flow analysis.
+- [**Kelly-Criterion**](https://github.com/MarcosCarreira/Kelly-Criterion) - Kelly Criterion implemented in Python to size portfolios based on J. L. Kelly Jr's formula.
+- [**rateslib**](https://github.com/volpatto/rateslib) - A fixed income library for pricing bonds and bond futures, and derivatives such as IRS, cross-currency, and FX swaps.
+- [**fypy**](https://github.com/furyofraven/fypy) - Vanilla and exotic option pricing library to support quantitative R&D. Focus on pricing interesting/useful models and contracts (including and beyond Black-Scholes), as well as calibration of financial models to market data.
+
 
 Indicators
 
@@ -57,139 +58,142 @@ Indicators
     talipp - Incremental technical analysis library for Python.
     streaming_indicators - A python library for computing technical analysis indicators on streaming data.
 
-Trading & Backtesting
+## Trading & Backtesting
 
-    skfolio - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
-    Investing algorithm framework - Framework for developing, backtesting, and deploying automated trading algorithms.
-    QSTrader - QSTrader backtesting simulation engine.
-    Blankly - Fully integrated backtesting, paper trading, and live deployment.
-    TA-Lib - Python wrapper for TA-Lib (http://ta-lib.org/).
-    zipline - Pythonic algorithmic trading library.
-    zipline-reloaded - Zipline, a Pythonic Algorithmic Trading Library.
-    QuantSoftware Toolkit - Python-based open source software framework designed to support portfolio construction and management.
-    quantitative - Quantitative finance, and backtesting library.
-    analyzer - Python framework for real-time financial and backtesting trading strategies.
-    bt - Flexible Backtesting for Python.
-    backtrader - Python Backtesting library for trading strategies.
-    pythalesians - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyze market patterns etc.
-    pybacktest - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
-    pyalgotrade - Python Algorithmic Trading Library.
-    basana - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
-    tradingWithPython - A collection of functions and classes for Quantitative trading.
-    Pandas TA - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
-    ta - Technical Analysis Library using Pandas (Python)
-    algobroker - This is an execution engine for algo trading.
-    pysentosa - Python API for sentosa trading system.
-    finmarketpy - Python library for backtesting trading strategies and analyzing financial markets.
-    binary-martingale - Computer program to automatically trade binary options martingale style.
-    fooltrader - the project using big-data technology to provide an uniform way to analyze the whole market.
-    zvt - the project using sql, pandas to provide an uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clearly charts in realtime.
-    pylivetrader - zipline-compatible live trading library.
-    pipeline-live - zipline's pipeline capability with IEX for live trading.
-    zipline-extensions - Zipline extensions and adapters for QuantRocket.
-    moonshot - Vectorized backtester and trading engine for QuantRocket based on Pandas.
-    PyPortfolioOpt - Financial portfolio optimization in python, including classical efficient frontier and advanced methods.
-    Eiten - Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategies such as Eigen Portfolios, Minimum Variance Portfolios, Maximum Sharpe Ratio Portfolios, and Genetic Algorithms based Portfolios.
-    riskparity.py - fast and scalable design of risk parity portfolios with TensorFlow 2.0
-    mlfinlab - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling)
-    pyqstrat - A fast, extensible, transparent python library for backtesting quantitative strategies.
-    NowTrade - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
-    pinkfish - A backtester and spreadsheet library for security analysis.
-    aat - Async Algorithmic Trading Engine
-    Backtesting.py - Backtest trading strategies in Python
-    catalyst - An Algorithmic Trading Library for Crypto-Assets in Python
-    quantstats - Portfolio analytics for quants, written in Python
-    qtpylib - QTPyLib, Pythonic Algorithmic Trading http://qtpylib.io
-    Quantdom - Python-based framework for backtesting trading strategies & analyzing financial markets [GUI :neckbeard:]
-    freqtrade - Free, open source crypto trading bot
-    algorithmic-trading-with-python - Free pandas and scikit-learn resources for trading simulation, backtesting, and machine learning on financial data.
-    DeepDow - Portfolio optimization with deep learning
-    Qlib - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
-    machine-learning-for-trading - Code and resources for Machine Learning for Algorithmic Trading
-    AlphaPy - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost
-    jesse - An advanced crypto trading bot written in Python
-    rqalpha - A extendable, replaceable Python algorithmic backtest && trading framework supporting multiple securities.
-    FinRL-Library - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
-    bulbea - Deep Learning based Python Library for Stock Market Prediction and Modelling.
-    ib_nope - Automated trading system for NOPE strategy over IBKR TWS.
-    OctoBot - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
-    bta-lib - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
-    Stock-Prediction-Models - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
-    TuneTA - TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.
-    AutoTrader - A Python-based development platform for automated trading systems - from backtesting to optimization to livetrading.
-    fast-trade - A library built with backtest portability and performance in mind for backtest trading strategies.
-    qf-lib - QF-Lib is a Python library that provides high quality tools for quantitative finance.
-    tda-api - Gather data and trade equities, options, and ETFs via TDAmeritrade.
-    vectorbt - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
-    Lean - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
-    fast-trade - Low code backtesting library utilizing pandas and technical analysis indicators.
-    pysystemtrade - pysystemtrade is the open source version of Robert Carver's backtesting and trading engine that implements systems according to the framework outlined in his book "Systematic Trading", which is further developed on his blog.
-    pytrendseries - Detect trend in time series, drawdown, drawdown within a constant look-back window , maximum drawdown, time underwater.
-    PyLOB - Fully functioning fast Limit Order Book written in Python.
-    PyBroker - Algorithmic Trading with Machine Learning.
-    OctoBot Script - A quant framework to create cryptocurrencies strategies - from backtesting to optimization to livetrading.
-    hftbacktest - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
-    vnpy - VeighNa is a Python-based open source quantitative trading system development framework.
-    Intelligent Trading Bot - Automatically generating signals and trading based on machine learning and feature engineering
-    fastquant - fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code.
-    nautilus_trader - A high-performance algorithmic trading platform and event-driven backtester.
-    YABTE - Yet Another (Python) BackTesting Engine.
-    Trading Strategy - TradingStrategy.ai is a market data, backtesting, live trading and investor management framework for decentralised finance
-    Hikyuu - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination.
+- [**skfolio**](https://github.com/cerlymarco/skforecast) - Python library for portfolio optimization built on top of scikit-learn. It provides a unified interface and sklearn compatible tools to build, tune and cross-validate portfolio models.
+- [**Investing algorithm framework**](https://github.com/je-suis-tm/quant-trading) - Framework for developing, backtesting, and deploying automated trading algorithms.
+- [**QSTrader**](https://github.com/mhallsmoore/qstrader) - QSTrader backtesting simulation engine.
+- [**Blankly**](https://github.com/Blankly-Finance/Blankly) - Fully integrated backtesting, paper trading, and live deployment.
+- [**TA-Lib**](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib (http://ta-lib.org/).
+- [**zipline**](https://github.com/quantopian/zipline) - Pythonic algorithmic trading library.
+- [**zipline-reloaded**](https://github.com/stefan-jansen/zipline-reloaded) - Zipline, a Pythonic Algorithmic Trading Library.
+- [**QuantSoftware Toolkit**](https://github.com/QuantSoftware/QuantSoftwareToolkit) - Python-based open source software framework designed to support portfolio construction and management.
+- [**quantitative**](https://github.com/je-suis-tm/quant-trading) - Quantitative finance, and backtesting library.
+- [**analyzer**](https://github.com/llSourcell/AI_in_Finance) - Python framework for real-time financial and backtesting trading strategies.
+- [**bt**](https://github.com/pmorissette/bt) - Flexible Backtesting for Python.
+- [**backtrader**](https://github.com/mementum/backtrader) - Python Backtesting library for trading strategies.
+- [**pythalesians**](https://github.com/pythalesians/pythalesians) - Python library to backtest trading strategies, plot charts, seamlessly download market data, analyze market patterns etc.
+- [**pybacktest**](https://github.com/ematvey/pybacktest) - Vectorized backtesting framework in Python / pandas, designed to make your backtesting easier.
+- [**pyalgotrade**](https://github.com/gbeced/pyalgotrade) - Python Algorithmic Trading Library.
+- [**basana**](https://github.com/rochars/basana) - A Python async and event driven framework for algorithmic trading, with a focus on crypto currencies.
+- [**tradingWithPython**](https://github.com/sjev/tradingWithPython) - A collection of functions and classes for Quantitative trading.
+- [**Pandas TA**](https://github.com/twopirllc/pandas-ta) - Pandas TA is an easy to use Python 3 Pandas Extension with 115+ Indicators. Easily build Custom Strategies.
+- [**ta**](https://github.com/bukosabino/ta) - Technical Analysis Library using Pandas (Python).
+- [**algobroker**](https://github.com/algobroker/algobroker) - This is an execution engine for algo trading.
+- [**pysentosa**](https://github.com/je-suis-tm/quant-trading) - Python API for sentosa trading system.
+- [**finmarketpy**](https://github.com/cuemacro/finmarketpy) - Python library for backtesting trading strategies and analyzing financial markets.
+- [**binary-martingale**](https://github.com/je-suis-tm/quant-trading) - Computer program to automatically trade binary options martingale style.
+- [**fooltrader**](https://github.com/foolcage/fooltrader) - The project using big-data technology to provide a uniform way to analyze the whole market.
+- [**zvt**](https://github.com/zvtvz/zvt) - The project using SQL, pandas to provide a uniform and extendable way to record data, computing factors, select securities, backtesting, realtime trading and it could show all of them in clear charts in realtime.
+- [**pylivetrader**](https://github.com/alpacahq/pylivetrader) - Zipline-compatible live trading library.
+- [**pipeline-live**](https://github.com/alpacahq/pipeline-live) - Zipline's pipeline capability with IEX for live trading.
+- [**zipline-extensions**](https://github.com/quantrocket-llc/zipline-extensions) - Zipline extensions and adapters for QuantRocket.
+- [**moonshot**](https://github.com/quantrocket-llc/moonshot) - Vectorized backtester and trading engine for QuantRocket based on Pandas.
+- [**PyPortfolioOpt**](https://github.com/robertmartin8/PyPortfolioOpt) - Financial portfolio optimization in python, including classical efficient frontier and advanced methods.
+- [**Eiten**](https://github.com/tradytics/eiten) - Eiten is an open source toolkit by Tradytics that implements various statistical and algorithmic investing strategies such as Eigen Portfolios, Minimum Variance Portfolios, Maximum Sharpe Ratio Portfolios, and Genetic Algorithms based Portfolios.
+- [**riskparity.py**](https://github.com/dppalomar/riskparity.py) - Fast and scalable design of risk parity portfolios with TensorFlow 2.0.
+- [**mlfinlab**](https://github.com/hudson-and-thames/mlfinlab) - Implementations regarding "Advances in Financial Machine Learning" by Marcos Lopez de Prado. (Feature Engineering, Financial Data Structures, Meta-Labeling).
+- [**pyqstrat**](https://github.com/abbass2/pyqstrat) - A fast, extensible, transparent python library for backtesting quantitative strategies.
+- [**NowTrade**](https://github.com/edouardpoitras/NowTrade) - Python library for backtesting technical/mechanical strategies in the stock and currency markets.
+- [**pinkfish**](https://github.com/fja05680/pinkfish) - A backtester and spreadsheet library for security analysis.
+- [**aat**](https://github.com/timkpaine/aat) - Async Algorithmic Trading Engine.
+- [**Backtesting.py**](https://github.com/kernc/backtesting.py) - Backtest trading strategies in Python.
+- [**catalyst**](https://github.com/enigmampc/catalyst) - An Algorithmic Trading Library for Crypto-Assets in Python.
+- [**quantstats**](https://github.com/ranaroussi/quantstats) - Portfolio analytics for quants, written in Python.
+- [**qtpylib**](https://github.com/ranaroussi/qtpylib) - QTPyLib, Pythonic Algorithmic Trading.
+- [**Quantdom**](https://github.com/constverum/Quantdom) - Python-based framework for backtesting trading strategies & analyzing financial markets.
+- [**freqtrade**](https://github.com/freqtrade/freqtrade) - Free, open source crypto trading bot.
+- [**algorithmic-trading-with-python**](https://github.com/chrisconlan/algorithmic-trading-with-python) - Free pandas and scikit-learn resources for trading simulation, backtesting, and machine learning on financial data.
+- [**DeepDow**](https://github.com/jankrepl/deepdow) - Portfolio optimization with deep learning.
+- [**Qlib**](https://github.com/microsoft/qlib) - An AI-oriented Quantitative Investment Platform by Microsoft. Full ML pipeline of data processing, model training, back-testing; and covers the entire chain of quantitative investment: alpha seeking, risk modeling, portfolio optimization, and order execution.
+- [**machine-learning-for-trading**](https://github.com/stefan-jansen/machine-learning-for-trading) - Code and resources for Machine Learning for Algorithmic Trading.
+- [**AlphaPy**](https://github.com/ScottFreeLLC/AlphaPy) - Automated Machine Learning [AutoML] with Python, scikit-learn, Keras, XGBoost, LightGBM, and CatBoost.
+- [**jesse**](https://github.com/jesse-ai/jesse) - An advanced crypto trading bot written in Python.
+- [**rqalpha**](https://github.com/ricequant/rqalpha) - An extendable, replaceable Python algorithmic backtest & trading framework supporting multiple securities.
+- [**FinRL-Library**](https://github.com/AI4Finance-Foundation/FinRL-Library) - A Deep Reinforcement Learning Library for Automated Trading in Quantitative Finance. NeurIPS 2020.
+- [**bulbea**](https://github.com/achillesrasquinha/bulbea) - Deep Learning based Python Library for Stock Market Prediction and Modelling.
+- [**ib_nope**](https://github.com/saeed349/ib_nope) - Automated trading system for NOPE strategy over IBKR TWS.
+- [**OctoBot**](https://github.com/Drakkar-Software/OctoBot) - Open source cryptocurrency trading bot for high frequency, arbitrage, TA and social trading with an advanced web interface.
+- [**bta-lib**](https://github.com/mementum/bta-lib) - Technical Analysis library in pandas for backtesting algotrading and quantitative analysis.
+- [**Stock-Prediction-Models**](https://github.com/huseinzol05/Stock-Prediction-Models) - Gathers machine learning and deep learning models for Stock forecasting including trading bots and simulations.
+- [**TuneTA**](https://github.com/tuneta/py) - TuneTA optimizes technical indicators using a distance correlation measure to a user defined target feature such as next day return.
+- [**AutoTrader**](https://github.com/edwardhdlu/AutoTrader) - A Python-based development platform for automated trading systems - from backtesting to optimization to livetrading.
+- [**fast-trade**](https://github.com/jesse-ai/fast-trade) - A library built with backtest portability and performance in mind for backtest trading strategies.
+- [**qf-lib**](https://github.com/quarkfin/qf-lib) - QF-Lib is a Python library that provides high quality tools for quantitative finance.
+- [**tda-api**](https://github.com/alexgolec/tda-api) - Gather data and trade equities, options, and ETFs via TDAmeritrade.
+- [**vectorbt**](https://github.com/polakowo/vectorbt) - Find your trading edge, using a powerful toolkit for backtesting, algorithmic trading, and research.
+- [**Lean**](https://github.com/QuantConnect/Lean) - Lean Algorithmic Trading Engine by QuantConnect (Python, C#).
+- [**fast-trade**](https://github.com/jesse-ai/fast-trade) - Low code backtesting library utilizing pandas and technical analysis indicators.
+- [**pysystemtrade**](https://github.com/robcarver17/pysystemtrade) - pysystemtrade is the open source version of Robert Carver's backtesting and trading engine that implements systems according to the framework outlined in his book "Systematic Trading", which is further developed on his blog.
+- [**pytrendseries**](https://github.com/je-suis-tm/pytrendseries) - Detect trend in time series, drawdown, drawdown within a constant look-back window, maximum drawdown, time underwater.
+- [**PyLOB**](https://github.com/akcarsten/PyLOB) - Fully functioning fast Limit Order Book written in Python.
+- [**PyBroker**](https://github.com/edwardhdlu/pybroker) - Algorithmic Trading with Machine Learning.
+- [**OctoBot Script**](https://github.com/Drakkar-Software/OctoBot-Script) - A quant framework to create cryptocurrencies strategies - from backtesting to optimization to livetrading.
+- [**hftbacktest**](https://github.com/jesse-ai/hftbacktest) - A high-frequency trading and market-making backtesting tool accounts for limit orders, queue positions, and latencies, utilizing full tick data for trades and order books.
+- [**vnpy**](https://github.com/vnpy/vnpy) - VeighNa is a Python-based open source quantitative trading system development framework.
+- [**Intelligent Trading Bot**](https://github.com/Ultimaker/IntelligentTradingBot) - Automatically generating signals and trading based on machine learning and feature engineering.
+- [**fastquant**](https://github.com/enzoampil/fastquant) - fastquant allows you to easily backtest investment strategies with as few as 3 lines of python code.
+- [**nautilus_trader**](https://github.com/nautechsystems/nautilus_trader) - A high-performance algorithmic trading platform and event-driven backtester.
+- [**YABTE**](https://github.com/jesse-ai/YABTE) - Yet Another (Python) BackTesting Engine.
+- [**Trading Strategy**](https://github.com/tradingstrategy-ai/trading-strategy) - TradingStrategy.ai is a market data, backtesting, live trading and investor management framework for decentralized finance.
+- [**Hikyuu**](https://github.com/fasiondog/hikyuu) - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination.
 
-Risk Analysis
 
-    QuantLibRisks - Fast risks with QuantLib
-    XAD - Automatic Differentation (AAD) Library
-    pyfolio - Portfolio and risk analytics in Python.
-    empyrical - Common financial risk and performance metrics.
-    fecon235 - Computational tools for financial economics include: Gaussian Mixture model of leptokurtotic risk, adaptive Boltzmann portfolios.
-    finance - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
-    qfrm - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
-    visualize-wealth - Portfolio construction and quantitative analysis.
-    VisualPortfolio - This tool is used to visualize the performance of a portfolio.
-    universal-portfolios - Collection of algorithms for online portfolio selection.
-    FinQuant - A program for financial portfolio management, analysis and optimization.
-    Empyrial - Portfolio's risk and performance analytics and returns predictions.
-    risktools - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
-    Riskfolio-Lib - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
-    empyrical-reloaded - Common financial risk and performance metrics. empyrical fork.
-    pyfolio-reloaded - Portfolio and risk analytics in Python. pyfolio fork.
-    fortitudo.tech - Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python.
+## Risk Analysis
 
-Factor Analysis
+- [**QuantLibRisks**](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib.
+- [**XAD**](https://github.com/auto-differentiation/xad) - Automatic Differentiation (AAD) Library.
+- [**pyfolio**](https://github.com/quantopian/pyfolio) - Portfolio and risk analytics in Python.
+- [**empyrical**](https://github.com/quantopian/empyrical) - Common financial risk and performance metrics.
+- [**fecon235**](https://github.com/rsvp/fecon235) - Computational tools for financial economics include: Gaussian Mixture model of leptokurtotic risk, adaptive Boltzmann portfolios.
+- [**finance**](https://github.com/pydata/finance) - Financial Risk Calculations. Optimized for ease of use through class construction and operator overload.
+- [**qfrm**](https://github.com/philko92/qfrm) - Quantitative Financial Risk Management: awesome OOP tools for measuring, managing and visualizing risk of financial instruments and portfolios.
+- [**visualize-wealth**](https://github.com/benjaminmgross/visualize-wealth) - Portfolio construction and quantitative analysis.
+- [**VisualPortfolio**](https://github.com/ftomassetti/VisualPortfolio) - This tool is used to visualize the performance of a portfolio.
+- [**universal-portfolios**](https://github.com/Marigold/universal-portfolios) - Collection of algorithms for online portfolio selection.
+- [**FinQuant**](https://github.com/fmilthaler/FinQuant) - A program for financial portfolio management, analysis and optimization.
+- [**Empyrial**](https://github.com/ssantoshp/Empyrial) - Portfolio's risk and performance analytics and returns predictions.
+- [**risktools**](https://github.com/JamesRitchie/risktools) - Risk tools for use within the crude and crude products trading space with partial implementation of R's PerformanceAnalytics.
+- [**Riskfolio-Lib**](https://github.com/dcajasn/Riskfolio-Lib) - Portfolio Optimization and Quantitative Strategic Asset Allocation in Python.
+- [**empyrical-reloaded**](https://github.com/ranaroussi/empyrical-reloaded) - Common financial risk and performance metrics. empyrical fork.
+- [**pyfolio-reloaded**](https://github.com/ranaroussi/pyfolio-reloaded) - Portfolio and risk analytics in Python. pyfolio fork.
+- [**fortitudo.tech**](https://github.com/fortitudo-tech/fortitudo.tech) - Conditional Value-at-Risk (CVaR) portfolio optimization and Entropy Pooling views / stress-testing in Python.
 
-    alphalens - Performance analysis of predictive alpha factors.
-    alphalens-reloaded - Performance analysis of predictive (alpha) stock factors.
-    Spectre - GPU-accelerated Factors analysis library and Backtester
 
-Sentiment Analysis
+## Factor Analysis
 
-    Asset News Sentiment Analyzer - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
+- [**alphalens**](https://github.com/quantopian/alphalens) - Performance analysis of predictive alpha factors.
+- [**alphalens-reloaded**](https://github.com/stefan-jansen/alphalens-reloaded) - Performance analysis of predictive (alpha) stock factors.
+- [**Spectre**](https://github.com/SpectreLibrary/Spectre) - GPU-accelerated factors analysis library and backtester.
 
-Quant Research Environment
+## Sentiment Analysis
 
-    Jupyter Quant - A dockerized Jupyter quant research environment with preloaded tools for quant analysis, statsmodels, pymc, arch, py_vollib, zipline-reloaded, PyPortfolioOpt, etc.
+- [**Asset News Sentiment Analyzer**](https://github.com/AssetNews/AssetNewsSentimentAnalyzer) - Sentiment analysis and report generation package for financial assets and securities utilizing GPT models.
 
-Time Series
+## Quant Research Environment
 
-    ARCH - ARCH models in Python.
-    statsmodels - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
-    dynts - Python package for timeseries analysis and manipulation.
-    PyFlux - Python library for timeseries modelling and inference (frequentist and Bayesian) on models.
-    tsfresh - Automatic extraction of relevant features from time series.
-    hasura/quandl-metabase - Hasura quickstart to visualize Quandl's timeseries datasets with Metabase.
-    Facebook Prophet - Tool for producing high quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
-    tsmoothie - A python library for time-series smoothing and outlier detection in a vectorized way.
-    pmdarima - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
-    gluon-ts - vProbabilistic time series modeling in Python.
-    functime - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data.
+- [**Jupyter Quant**](https://github.com/jupyterquant/jupyter-quant) - A dockerized Jupyter quant research environment with preloaded tools for quant analysis, including statsmodels, pymc, arch, py_vollib, zipline-reloaded, PyPortfolioOpt, etc.
 
-Calendars
+## Time Series
 
-    exchange_calendars - Stock Exchange Trading Calendars.
-    bizdays - Business days calculations and utilities.
-    pandas_market_calendars - Exchange calendars to use with pandas for trading applications.
+- [**ARCH**](https://github.com/bashtage/arch) - ARCH models in Python.
+- [**statsmodels**](https://github.com/statsmodels/statsmodels) - Python module that allows users to explore data, estimate statistical models, and perform statistical tests.
+- [**dynts**](https://github.com/quantmind/dynts) - Python package for time series analysis and manipulation.
+- [**PyFlux**](https://github.com/RJT1990/pyflux) - Python library for time series modeling and inference (frequentist and Bayesian) on models.
+- [**tsfresh**](https://github.com/blue-yonder/tsfresh) - Automatic extraction of relevant features from time series.
+- [**hasura/quandl-metabase**](https://github.com/hasura/quickstart-templates/tree/master/quandl-metabase) - Hasura quickstart to visualize Quandl's time series datasets with Metabase.
+- [**Facebook Prophet**](https://github.com/facebook/prophet) - Tool for producing high-quality forecasts for time series data that has multiple seasonality with linear or non-linear growth.
+- [**tsmoothie**](https://github.com/cerlymarco/tsmoothie) - A Python library for time-series smoothing and outlier detection in a vectorized way.
+- [**pmdarima**](https://github.com/alkaline-ml/pmdarima) - A statistical library designed to fill the void in Python's time series analysis capabilities, including the equivalent of R's auto.arima function.
+- [**gluon-ts**](https://github.com/awslabs/gluon-ts) - Probabilistic time series modeling in Python.
+- [**functime**](https://github.com/Nixtla/functime) - Time-series machine learning at scale. Built with Polars for embarrassingly parallel feature extraction and forecasts on panel data.
+
+## Calendars
+
+- [**exchange_calendars**](https://github.com/gerrymanoim/exchange_calendars) - Stock Exchange Trading Calendars.
+- [**bizdays**](https://github.com/wilsonfreitas/bizdays) - Business days calculations and utilities.
+- [**pandas_market_calendars**](https://github.com/rsheftel/pandas_market_calendars) - Exchange calendars to use with pandas for trading applications.
+
 
 Data Sources
 
@@ -248,39 +252,41 @@ Data Sources
     Trading Strategy - download price data for decentralised exchanges and lending protocols (DeFi)
     datamule-python - A package to work with SEC data. Incorporates datamule endpoints.
 
-Excel Integration
+## Excel Integration
 
-    xlwings - Make Excel fly with Python.
-    openpyxl - Read/Write Excel 2007 xlsx/xlsm files.
-    xlrd - Library for developers to extract data from Microsoft Excel spreadsheet files.
-    xlsxwriter - Write files in the Excel 2007+ XLSX file format.
-    xlwt - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
-    DataNitro - DataNitro also offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
-    xlloop - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralised server (a function server).
-    expy - The ExPy add-in allows easy use of Python directly from within an Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
-    pyxll - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
+- [**xlwings**](https://www.xlwings.org/) - Make Excel fly with Python.
+- [**openpyxl**](https://openpyxl.readthedocs.io/) - Read/Write Excel 2007 xlsx/xlsm files.
+- [**xlrd**](https://xlrd.readthedocs.io/) - Library for developers to extract data from Microsoft Excel spreadsheet files.
+- [**xlsxwriter**](https://xlsxwriter.readthedocs.io/) - Write files in the Excel 2007+ XLSX file format.
+- [**xlwt**](https://xlwt.readthedocs.io/) - Library to create spreadsheet files compatible with MS Excel 97/2000/XP/2003 XLS files, on any platform.
+- [**DataNitro**](https://datanitro.com/) - DataNitro offers full-featured Python-Excel integration, including UDFs. Trial downloads are available, but users must purchase a license.
+- [**xlloop**](http://xlloop.sourceforge.net/) - XLLoop is an open source framework for implementing Excel user-defined functions (UDFs) on a centralized server (a function server).
+- [**expy**](https://sourceforge.net/projects/expy/) - The ExPy add-in allows easy use of Python directly from within a Microsoft Excel spreadsheet, both to execute arbitrary code and to define new Excel functions.
+- [**pyxll**](https://www.pyxll.com/) - PyXLL is an Excel add-in that enables you to extend Excel using nothing but Python code.
 
-Visualization
+## Visualization
 
-    D-Tale - Visualizer for pandas dataframes and xarray datasets.
-    mplfinance - matplotlib utilities for the visualization, and visual analysis, of financial data.
-    finplot - Performant and effortless finance plotting for Python.
-    finvizfinance - Finviz analysis python library.
-    market-analy - Analysis and interactive charting using market-prices and bqplot.
-    QuantInvestStrats - Quantitative Investment Strategies (QIS) package implements Python analytics for visualisation of financial data, performance reporting, analysis of quantitative strategies.
+- [**D-Tale**](https://github.com/man-group/dtale) - Visualizer for pandas dataframes and xarray datasets.
+- [**mplfinance**](https://github.com/matplotlib/mplfinance) - Matplotlib utilities for the visualization, and visual analysis, of financial data.
+- [**finplot**](https://github.com/highfestiva/finplot) - Performant and effortless finance plotting for Python.
+- [**finvizfinance**](https://github.com/lit26/finvizfinance) - Finviz analysis Python library.
+- [**market-analy**](https://github.com/peerchemist/market-analy) - Analysis and interactive charting using market-prices and bqplot.
+- [**QuantInvestStrats**](https://github.com/ranaroussi/quantinveststrats) - Quantitative Investment Strategies (QIS) package implements Python analytics for visualization of financial data, performance reporting, analysis of quantitative strategies.
 
-R
-Numerical Libraries & Data Structures
+## R
 
-    xts - eXtensible Time Series: Provide for uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user level customization and extension, while simplifying cross-class interoperability.
-    data.table - Extension of data.frame: Fast aggregation of large data (e.g. 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns and a fast file reader (fread). Offers a natural and flexible syntax, for faster development.
-    sparseEigen - Sparse principal component analysis.
-    TSdbi - Provides a common interface to time series databases.
-    tseries - Time Series Analysis and Computational Finance.
-    zoo - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
-    tis - Functions and S3 classes for time indexes and time indexed series, which are compatible with FAME frequencies.
-    tfplot - Utilities for simple manipulation and quick plotting of time series data.
-    tframe - A kernel of functions for programming time series methods in a way that is relatively independently of the representation of time.
+### Numerical Libraries & Data Structures
+
+- [**xts**](https://cran.r-project.org/web/packages/xts/index.html) - eXtensible Time Series: Provides uniform handling of R's different time-based data classes by extending zoo, maximizing native format information preservation and allowing for user-level customization and extension, while simplifying cross-class interoperability.
+- [**data.table**](https://cran.r-project.org/web/packages/data.table/index.html) - Extension of data.frame: Fast aggregation of large data (e.g., 100GB in RAM), fast ordered joins, fast add/modify/delete of columns by group using no copies at all, list columns, and a fast file reader (fread). Offers a natural and flexible syntax for faster development.
+- [**sparseEigen**](https://cran.r-project.org/web/packages/sparseEigen/index.html) - Sparse principal component analysis.
+- [**TSdbi**](https://cran.r-project.org/web/packages/TSdbi/index.html) - Provides a common interface to time series databases.
+- [**tseries**](https://cran.r-project.org/web/packages/tseries/index.html) - Time Series Analysis and Computational Finance.
+- [**zoo**](https://cran.r-project.org/web/packages/zoo/index.html) - S3 Infrastructure for Regular and Irregular Time Series (Z's Ordered Observations).
+- [**tis**](https://cran.r-project.org/web/packages/tis/index.html) - Functions and S3 classes for time indexes and time-indexed series, which are compatible with FAME frequencies.
+- [**tfplot**](https://cran.r-project.org/web/packages/tfplot/index.html) - Utilities for simple manipulation and quick plotting of time series data.
+- [**tframe**](https://cran.r-project.org/web/packages/tframe/index.html) - A kernel of functions for programming time series methods in a way that is relatively independent of the representation of time.
+
 
 Data Sources
 
@@ -333,45 +339,46 @@ Financial Instruments and Pricing
     fmbasics - Financial Market Building Blocks.
     R-fixedincome - Fixed income tools for R.
 
-Trading
+## Trading
 
-    backtest - Exploring Portfolio-Based Conjectures About Financial Instruments.
-    pa - Performance Attribution for Equity Portfolios.
-    TTR - Technical Trading Rules.
-    QuantTools - Enhanced Quantitative Trading Modelling.
-    blotter - Transaction infrastructure for defining instruments, transactions, portfolios and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios. Actively maintained and developed.
+- [**backtest**](https://cran.r-project.org/web/packages/backtest/index.html) - Exploring Portfolio-Based Conjectures About Financial Instruments.
+- [**pa**](https://cran.r-project.org/web/packages/pa/index.html) - Performance Attribution for Equity Portfolios.
+- [**TTR**](https://cran.r-project.org/web/packages/TTR/index.html) - Technical Trading Rules.
+- [**QuantTools**](https://github.com/AlgoTraderStudio/QuantTools) - Enhanced Quantitative Trading Modelling.
+- [**blotter**](https://github.com/braverock/blotter) - Transaction infrastructure for defining instruments, transactions, portfolios, and accounts for trading systems and simulation. Provides portfolio support for multi-asset class and multi-currency portfolios. Actively maintained and developed.
 
-Backtesting
+## Backtesting
 
-    quantstrat - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
+- [**quantstrat**](https://github.com/braverock/quantstrat) - Transaction-oriented infrastructure for constructing trading systems and simulation. Provides support for multi-asset class and multi-currency portfolios for backtesting and other financial research.
 
-Risk Analysis
+## Risk Analysis
 
-    PerformanceAnalytics - Econometric tools for performance and risk analysis.
+- [**PerformanceAnalytics**](https://github.com/braverock/PerformanceAnalytics) - Econometric tools for performance and risk analysis.
 
-Factor Analysis
+## Factor Analysis
 
-    FactorAnalytics - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization and risk management, namely fundamental factor models, time series factor models and statistical factor models.
-    Expected Returns - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, Expected Returns: An Investors Guide to Harvesting Market Rewards by Antti Ilmanen.
+- [**FactorAnalytics**](https://github.com/braverock/FactorAnalytics) - The FactorAnalytics package contains fitting and analysis methods for the three main types of factor models used in conjunction with portfolio construction, optimization, and risk management, namely fundamental factor models, time series factor models, and statistical factor models.
+- [**Expected Returns**](https://github.com/JustinMShea/ExpectedReturns) - Solutions for enhancing portfolio diversification and replications of seminal papers with R, most of which are discussed in one of the best investment references of the recent decade, *Expected Returns: An Investor's Guide to Harvesting Market Rewards* by Antti Ilmanen.
 
-Time Series
+## Time Series
 
-    tseries - Time Series Analysis and Computational Finance.
-    fGarch - Rmetrics - Autoregressive Conditional Heteroskedastic Modelling.
-    timeSeries - Rmetrics - Financial Time Series Objects.
-    rugarch - Univariate GARCH Models.
-    rmgarch - Multivariate GARCH Models.
-    tidypredict - Run predictions inside the database https://tidypredict.netlify.com/.
-    tidyquant - Bringing financial analysis to the tidyverse.
-    timetk - A toolkit for working with time series in R.
-    tibbletime - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time aware tibbles through the setting of a time index.
-    matrixprofile - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
-    garchmodels - A parsnip backend for GARCH models.
+- [**tseries**](https://cran.r-project.org/web/packages/tseries/index.html) - Time Series Analysis and Computational Finance.
+- [**fGarch**](https://cran.r-project.org/web/packages/fGarch/index.html) - Rmetrics - Autoregressive Conditional Heteroskedastic Modelling.
+- [**timeSeries**](https://cran.r-project.org/web/packages/timeSeries/index.html) - Rmetrics - Financial Time Series Objects.
+- [**rugarch**](https://cran.r-project.org/web/packages/rugarch/index.html) - Univariate GARCH Models.
+- [**rmgarch**](https://cran.r-project.org/web/packages/rmgarch/index.html) - Multivariate GARCH Models.
+- [**tidypredict**](https://cran.r-project.org/web/packages/tidypredict/index.html) - Run predictions inside the database.
+- [**tidyquant**](https://cran.r-project.org/web/packages/tidyquant/index.html) - Bringing financial analysis to the tidyverse.
+- [**timetk**](https://cran.r-project.org/web/packages/timetk/index.html) - A toolkit for working with time series in R.
+- [**tibbletime**](https://cran.r-project.org/web/packages/tibbletime/index.html) - Built on top of the tidyverse, tibbletime is an extension that allows for the creation of time-aware tibbles through the setting of a time index.
+- [**matrixprofile**](https://cran.r-project.org/web/packages/matrixprofile/index.html) - Time series data mining library built on top of the novel Matrix Profile data structure and algorithms.
+- [**garchmodels**](https://cran.r-project.org/web/packages/garchmodels/index.html) - A parsnip backend for GARCH models.
 
-Calendars
+## Calendars
 
-    timeDate - Chronological and Calendar Objects
-    bizdays - Business days calculations and utilities
+- [**timeDate**](https://cran.r-project.org/web/packages/timeDate/index.html) - Chronological and Calendar Objects.
+- [**bizdays**](https://cran.r-project.org/web/packages/bizdays/index.html) - Business days calculations and utilities.
+
 
 Matlab
 FrameWorks
@@ -415,50 +422,51 @@ JavaScript
     ccxt - A JavaScript / Python / PHP cryptocurrency trading API with support for more than 100 bitcoin/altcoin exchanges.
     PENDAX - Javascript SDK for Trading/Data API and Websockets for FTX, FTXUS, OKX, Bybit, & More.
 
-Data Visualization
+## Data Visualization
 
-    QUANTAXIS_Webkit - An awesome visualization center based on quantaxis.
+- [**QUANTAXIS_Webkit**](https://github.com/yutiansut/QUANTAXIS_Webkit) - An awesome visualization center based on QUANTAXIS.
 
-Haskell
+## Haskell
 
-    quantfin - quant finance in pure haskell.
-    Haxcel - Excel Addin for Haskell.
-    Ffinar - A financial maths library in Haskell.
+- [**quantfin**](https://github.com/boundedvariation/quantfin) - Quant finance in pure Haskell.
+- [**Haxcel**](https://github.com/MarcWeber/haxcel) - Excel Addin for Haskell.
+- [**Ffinar**](https://github.com/anton-k/ffinar) - A financial maths library in Haskell.
 
-Scala
+## Scala
 
-    QuantScale - Scala Quantitative Finance Library.
-    Scala Quant - Scala library for working with stock data from IFTTT recipes or Google Finance.
+- [**QuantScale**](https://github.com/QuantScale/QuantScale) - Scala Quantitative Finance Library.
+- [**Scala Quant**](https://github.com/frankcash/Scala-Quant) - Scala library for working with stock data from IFTTT recipes or Google Finance.
 
-CPP
+## C++
 
-    QuantLib - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-    QuantLibRisks - Fast risks with QuantLib in C++
-    XAD - Automatic Differentation (AAD) Library
-    TradeFrame - C++ 17 based framework/library (with sample applications) for testing options based automated trading ideas using DTN IQ real time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in Option Greeks/IV calculation library.
-    Hikyuu - A base on Python/C++ open source high-performance quant framework for faster analysis and backtesting, contains the complete trading system components for reuse and combination. You can use python or c++ freely.
+- [**QuantLib**](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+- [**QuantLibRisks**](https://github.com/auto-differentiation/QuantLib-Risks-Cpp) - Fast risks with QuantLib in C++.
+- [**XAD**](https://github.com/auto-differentiation/xad) - Automatic Differentiation (AAD) Library.
+- [**TradeFrame**](https://github.com/TradeFrame/TradeFrame) - C++17 based framework/library (with sample applications) for testing options-based automated trading ideas using DTN IQ real-time data feed and Interactive Brokers (TWS API) for trade execution. Comes with built-in Option Greeks/IV calculation library.
+- [**Hikyuu**](https://github.com/fasiondog/hikyuu) - A Python/C++ open source high-performance quant framework for faster analysis and backtesting, containing complete trading system components for reuse and combination.
 
-Frameworks
+## Frameworks
 
-    QuantLib - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
-        QuantLibRisks - Fast risks with QuantLib in Python and C++
-        XAD - Automatic Differentiation (AAD) Library in Python and C++
-        JQuantLib - Java port.
-        RQuantLib - R port.
-        QuantLibAddin - Excel support.
-        QuantLibXL - Excel support.
-        QLNet - .Net port.
-        PyQL - Python port.
-        QuantLib.jl - Julia port.
-        QuantLib-Python Documentation - Documentation for the Python bindings for the QuantLib library
+- [**QuantLib**](https://github.com/lballabio/QuantLib) - The QuantLib project is aimed at providing a comprehensive software framework for quantitative finance.
+  - [**QuantLibRisks**](https://github.com/auto-differentiation/QuantLib-Risks) - Fast risks with QuantLib in Python and C++.
+  - [**XAD**](https://github.com/auto-differentiation/xad) - Automatic Differentiation (AAD) Library in Python and C++.
+  - [**JQuantLib**](https://github.com/jquantlib/jquantlib) - Java port.
+  - [**RQuantLib**](https://github.com/eddelbuettel/rquantlib) - R port.
+  - [**QuantLibAddin**](https://github.com/eehlers/QuantLibAddin) - Excel support.
+  - [**QuantLibXL**](https://github.com/eehlers/QuantLibXL) - Excel support.
+  - [**QLNet**](https://github.com/amaggiulli/qlnet) - .Net port.
+  - [**PyQL**](https://github.com/enthought/pyql) - Python port.
+  - [**QuantLib.jl**](https://github.com/pazzo83/QuantLib.jl) - Julia port.
+  - [**QuantLib-Python Documentation**](https://github.com/lballabio/QuantLib-SWIG) - Documentation for the Python bindings for the QuantLib library.
 
-    TA-Lib - perform technical analysis of financial market data.
-        ta-lib-python
-        ta-lib
+- [**TA-Lib**](https://github.com/mrjbq7/ta-lib) - Perform technical analysis of financial market data.
+  - [**ta-lib-python**](https://github.com/mrjbq7/ta-lib) - Python wrapper for TA-Lib.
+  - [**ta-lib**](https://github.com/TA-Lib/ta-lib) - Original TA-Lib C library.
 
-    Portfolio Optimizer - Portfolio Optimizer is a Web API for portfolio analysis and optimization.
+- [**Portfolio Optimizer**](https://portfoliooptimizer.io/) - Portfolio Optimizer is a Web API for portfolio analysis and optimization.
 
-    XAD: Automatic Differentation (AAD) Library for Python and C++
+- [**XAD**](https://github.com/auto-differentiation/xad) - Automatic Differentiation (AAD) Library for Python and C++.
+
 
 CSharp
 
