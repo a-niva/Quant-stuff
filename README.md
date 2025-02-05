@@ -1,20 +1,21 @@
 # Quant stuff
 A journey into curated quant and dev content
 
+## Python
 
-Python
-Numerical Libraries & Data Structures
+### Numerical Libraries & Data Structures
 
-    numpy - NumPy is the fundamental package for scientific computing with Python.
-    scipy - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-    pandas - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
-    polars - Polars is a blazingly fast DataFrame library for manipulating structured data.
-    quantdsl - Domain specific language for quantitative analytics in finance and trading.
-    statistics - Builtin Python library for all basic statistical calculations.
-    sympy - SymPy is a Python library for symbolic mathematics.
-    pymc3 - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
-    modelx - Python reimagination of spreadsheets as formula-centric objects that are interoperable with pandas.
-    ArcticDB - High performance datastore for time series and tick data.
+- [**NumPy**](https://numpy.org/) - NumPy is the fundamental package for scientific computing with Python.
+- [**SciPy**](https://scipy.org/) - SciPy (pronounced “Sigh Pie”) is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+- [**pandas**](https://pandas.pydata.org/) - pandas is an open source, BSD-licensed library providing high-performance, easy-to-use data structures and data analysis tools for the Python programming language.
+- [**Polars**](https://www.pola.rs/) - Polars is a blazingly fast DataFrame library for manipulating structured data.
+- [**quantdsl**](https://github.com/johnbywater/quantdsl) - Domain specific language for quantitative analytics in finance and trading.
+- [**statistics**](https://docs.python.org/3/library/statistics.html) - Builtin Python library for all basic statistical calculations.
+- [**SymPy**](https://www.sympy.org/en/index.html) - SymPy is a Python library for symbolic mathematics.
+- [**PyMC3**](https://www.pymc.io/) - Probabilistic Programming in Python: Bayesian Modeling and Probabilistic Machine Learning with Theano.
+- [**modelx**](https://modelx.io/) - Python reimagination of spreadsheets as formula-centric objects that are interoperable with pandas.
+- [**ArcticDB**](https://docs.arcticdb.io/4.1.0/api/library/) - High performance datastore for time series and tick data.
+
 
 Financial Instruments and Pricing
 
